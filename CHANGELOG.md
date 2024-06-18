@@ -9,5 +9,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.1.0](https://github.com/gooseops/hello_world/releases/tag/v0.1.0) - 2024-06-18
 
 ### Other
+- release
+- testing release-plz
+- initial hellow world commit with cargo
+
+## [0.1.0](https://github.com/gooseops/hello_world/releases/tag/v0.1.0) - 2024-06-18
+
+### Other
 - testing release-plz
 - initial hellow world commit with cargo
