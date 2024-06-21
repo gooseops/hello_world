@@ -3,7 +3,7 @@
     "version": "0.0.1",
     "private": true,
     "release": {
-        "branches": ["ci/releasing"],
+        "branches": ["ci/releasing", "main"],
         "tagFormat": "v0.${version}"
     }
 }
