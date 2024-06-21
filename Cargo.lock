@@ -20,8 +20,8 @@ dependencies = [
 ]
 
 [[package]]
-name = "guessing_game"
-version = "0.1.2"
+name = "goose_guessing_game"
+version = "0.0.0"
 dependencies = [
  "rand",
 ]
